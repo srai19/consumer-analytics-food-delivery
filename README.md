@@ -1,7 +1,7 @@
-consumer-analytics-E-commerce-delivery
+consumer-analytics-ecommerce
 
 
-# Consumer Analytics: Revenue, Retention & Customer Experience
+# Consumer Analytics E-commerce: Revenue, Retention & Customer Experience
 
 ## Project Overview
 
