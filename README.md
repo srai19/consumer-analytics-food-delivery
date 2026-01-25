@@ -79,7 +79,11 @@ This project demonstrates:
 
 ## About Me
 
-I am actively preparing for **Business Analyst / Product Analyst / Strategy roles**, with a strong focus on data-driven decision-making, stakeholder communication, and business impact.
+I am a data-driven professional with a strong interest in Business Analytics, Product Analytics, and Strategy, focused on solving real-world business problems using structured thinking and data. I enjoy translating complex datasets into clear insights that support decision-making across revenue growth, customer retention, and user experience.
+
+Through hands-on projects, I have worked extensively with SQL and Python to analyze consumer behavior, evaluate business performance, and generate actionable recommendations. I emphasize a business-first approach to analytics, combining quantitative analysis with product and customer intuition rather than relying solely on technical outputs.
+
+I am currently seeking opportunities in Business Analyst, Product Analyst, or Strategy roles, where I can contribute to data-informed decision-making, cross-functional collaboration, and long-term business impact.
 
 
 
